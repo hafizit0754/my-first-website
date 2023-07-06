@@ -67,7 +67,8 @@
 }
 .about-title{
     text-align: center;
-    padding-top: 20px;
+    padding-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
 }
 .details{
     padding: 10px;
@@ -87,11 +88,13 @@
 
 }
 .box-btn{
-    background-color: gray;
+    background-color: rgb(250, 169, 169);
     margin-top: 10px;
+    border-radius: 5px;
+    padding: 10px;
 }
 .box-title{
-    padding: 10px;
+    padding: 20px;
 }
 .box-description{
     padding: 5px;
@@ -101,4 +104,8 @@
     justify-content: space-around;
     padding: 20px;
     background-image: url("./images/bck.avif");
+}
+.logo-photo1{
+    width: 120px;
+
 }
