@@ -51,10 +51,24 @@
     font-size: 18px;
     margin-top: 5px;
     margin-bottom: 15px;
+    padding: 10px 20px;
 }
 .btn{
     padding: 10px 20px;
     background-color:red;
     color: black;
     border-radius: 10px;
+}
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.about-title{
+    text-align: center;
+    padding-top: 20px;
+}
+.details{
+    padding: 10px;
 }
